@@ -1,4 +1,4 @@
-# Face-detectio 🤖 
+# Face-detectio 🤖  
 
 A Python-based **Face Recognition System** that uses machine learning and computer vision techniques to detect and recognize human faces in images or video streams.  
 
